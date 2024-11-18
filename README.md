@@ -42,7 +42,6 @@ I'm currently working on Machine Learning 💻🤖<br>I'm currently doing Master
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SudarshanC00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SudarshanC00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanC00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
