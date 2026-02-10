@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Machine Learning 💻🤖<br>I'm currently doing Masters in Artificial Intelligence at San Jose State University🧑‍🎓<br>I'm looking to collaborate on AI/ML Projects🦾🦾<br>I'm looking for Summer 2025 internships in AI/ML<br>How to reach me : sudarshan.c1326@gmail.com📧<br>
+I'm currently working on Machine Learning 💻🤖<br>I'm currently doing Masters in Artificial Intelligence at San Jose State University🧑‍🎓<br>I'm looking to collaborate on AI/ML Projects🦾🦾<br>I'm looking for Full-time opportunities in AI/ML<br>How to reach me : sudarshan.c1326@gmail.com📧<br>
 
 
 ## 🌐 Socials:
